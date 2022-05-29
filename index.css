@@ -1,0 +1,17 @@
+html {
+  text-align: center;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  padding: 50px;
+
+  text-align: left;
+  font-family: Georgia, serif;
+  font-size: 16px;
+}
+
+.centered {
+  text-align: center;
+}
